@@ -1,6 +1,6 @@
 # Class introspection
 
-Appendix material: code from the paper [available here](https://misc.ka.ge/honours.pdf).
+Appendix material.
 
 ## Installing
 
@@ -23,14 +23,14 @@ to install the virtual environment into Jupyter as a kernel:
 
 ## Layout
 
-The initial explorations discussed in Chapter 4 can be found in the `initial-explorations/` directory.
+Initial explorations can be found in the `initial-explorations/` directory.
 
-Specifically, the Iris and LIME explorations are in `initial-explorations/Iris - LIME.ipynb` and the Iris and SHAP explorations are in `initial-explorations/Iris SHAP.ipynb`. The MNIST and LIME explorations are in
+Specifically, earlier Iris and LIME explorations are in `initial-explorations/Iris - LIME.ipynb` and the Iris and SHAP explorations are in `initial-explorations/Iris SHAP.ipynb`. The MNIST and LIME explorations are in
 `initial-explorations/MNIST - pytorch.ipynb`, and the MNIST and SHAP explorations are in
 `initial-explorations/MNIST- Keras.ipynb`.
 
-The pipeline discussed in Chapter 5 can be found in the `pipeline/` directory.
+The pipeline can be found in the `pipeline/` directory.
 
-The web application discussed in Chapter 5 can be found in the `pipeline/explorer/` directory.
+The web application  can be found in the `pipeline/explorer/` directory.
 
 Other experiments can be found in the `initial-explorations/` directory.
